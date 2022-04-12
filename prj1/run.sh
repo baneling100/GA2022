@@ -1,4 +1,3 @@
-
 # Usage : bash run.sh n
 # n should be 8 or 32 or 80
 echo ""
@@ -10,7 +9,7 @@ make all
 
 echo ""
 echo "make run"
-timeout 180 make run 2>&1
+timeout 30 make run 2>&1
 
 echo ""
 echo " * 'make clean' before submit or re-run"
