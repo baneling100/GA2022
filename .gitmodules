@@ -1,0 +1,3 @@
+[submodule "prj2_3"]
+	path = prj2_3
+	url = https://github.com/baneling100/GA2022-MAX-CUT.git
