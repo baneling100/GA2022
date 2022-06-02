@@ -1,3 +1,6 @@
-[submodule "prj2_3"]
-	path = prj2_3
-	url = https://github.com/baneling100/GA2022-MAX-CUT.git
+[submodule "prj3"]
+	path = prj3
+	url = https://github.com/baneling100/GA2022-prj3.git
+[submodule "prj2"]
+	path = prj2
+	url = https://github.com/baneling100/GA2022-prj2.git
